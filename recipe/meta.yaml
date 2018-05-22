@@ -1,7 +1,7 @@
 {% set name = "kernda" %}
-{% set version = "0.2.1" %}
+{% set version = "0.3.0" %}
 {% set hashtype = "sha256" %}
-{% set hash = "64c67ec24ffd02fbe8cbf7e0a9a0a273c27d27eebf8a794eed4cff66921cae2e" %}
+{% set hash = "4ed6f676ed4d285e69510fb6b5f0755ef3f21aed490762f3f79c50c3cd3972b3" %}
 
 package:
   name: {{ name }}
